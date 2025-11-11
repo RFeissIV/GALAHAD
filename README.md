@@ -40,4 +40,3 @@ Install the latest CRAN release:
 
 ```r
 install.packages("GALAHAD")
-
